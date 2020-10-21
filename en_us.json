@@ -1,12 +1,12 @@
 {
   "itemGroup.fpvracing.items":"FPV Racing",
-  "category.fpvracing.keys":"FPV Racing Keybinds",
-  "key.fpvracing.emp":"EMP",
+  "category.fpvracing.keys":"Raccourcis FPV Racing",
+  "key.fpvracing.emp":"D\u00e9truire le drone li\u00e9",
   "key.fpvracing.noclip":"No Clip",
-  "key.fpvracing.godmode":"God Mode",
-  "key.fpvracing.powergoggles":"Goggle Power",
-  "entity.fpvracing.drone_entity":"Drone",
-  "item.fpvracing.drone_spawner_item":"Drone Spawner",
-  "item.fpvracing.goggles_item":"Goggles",
-  "item.fpvracing.transmitter_item":"Transmitter"
+  "key.fpvracing.godmode":"Mode invincible",
+  "key.fpvracing.powergoggles":"Allumer les lunettes FPV",
+  "entity.fpvracing.drone_entity":"Drone FPV",
+  "item.fpvracing.drone_spawner_item":"Spawner \u00e0 Drone",
+  "item.fpvracing.goggles_item":"Lunettes FPV",
+  "item.fpvracing.transmitter_item":"T\u00e9l\u00e9commande"
 }
