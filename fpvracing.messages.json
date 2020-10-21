@@ -2,14 +2,14 @@
   "help" : {
     "config" : [
       {
-        "text" : "Commandes de configuration FPV Racing: \n",
+        "text" : "Commandes de configuration FPV: \n",
         "bold" : true,
         "italic" : false,
         "color" : "white"
       },
 
       {
-        "text" : "\nParamètres de la télécommande: \n",
+        "text" : "\nParam\u00e8tres de la t\u00e9l\u00e9commande: \n",
         "bold" : true,
         "italic" : false,
         "color" : "white"
@@ -21,7 +21,7 @@
         "italic" : true,
         "color" : "white"
       }, {
-        "text" : "L'identifiant de la télécommande.\n",
+        "text" : "Identifiant de la t\u00e9l\u00e9commande.\n",
         "bold" : false,
         "italic" : false,
         "color" : "gray"
@@ -33,7 +33,7 @@
         "italic" : true,
         "color" : "white"
       }, {
-        "text" : "La zone morte de la télécommande.\n",
+        "text" : "Zone morte de la t\u00e9l\u00e9commande.\n",
         "bold" : false,
         "italic" : false,
         "color" : "gray"
@@ -45,7 +45,7 @@
         "italic" : true,
         "color" : "white"
       }, {
-        "text" : "The controller's pitch channel.\n",
+        "text" : "Canal du tangage de la t\u00e9l\u00e9commande.\n",
         "bold" : false,
         "italic" : false,
         "color" : "gray"
@@ -57,7 +57,7 @@
         "italic" : true,
         "color" : "white"
       }, {
-        "text" : "The controller's roll channel.\n",
+        "text" : "Canal du roulis de la t\u00e9l\u00e9commande.\n",
         "bold" : false,
         "italic" : false,
         "color" : "gray"
@@ -69,7 +69,7 @@
         "italic" : true,
         "color" : "white"
       }, {
-        "text" : "The controller's throttle channel.\n",
+        "text" : "Canal des gaz de la t\u00e9l\u00e9commande.\n",
         "bold" : false,
         "italic" : false,
         "color" : "gray"
@@ -93,14 +93,14 @@
         "italic" : true,
         "color" : "white"
       }, {
-        "text" : "The controller's yaw channel.\n",
+        "text" : "Canal du lacet de la t\u00e9l\u00e9commande.\n",
         "bold" : false,
         "italic" : false,
         "color" : "gray"
       },
 
       {
-        "text" : "\nRate Setup: \n",
+        "text" : "\nParam\u00e8tres des Rates: \n",
         "bold" : true,
         "italic" : false,
         "color" : "white"
@@ -112,7 +112,7 @@
         "italic" : true,
         "color" : "white"
       }, {
-        "text" : "The drone's betaflight rate value.\n",
+        "text" : "Valeurs betaflight du drone.\n",
         "bold" : false,
         "italic" : false,
         "color" : "gray"
@@ -124,7 +124,7 @@
         "italic" : true,
         "color" : "white"
       }, {
-        "text" : "The drone's betaflight superRate value.\n",
+        "text" : "Valeur superRate betaflight du drone.\n",
         "bold" : false,
         "italic" : false,
         "color" : "gray"
@@ -136,14 +136,14 @@
         "italic" : true,
         "color" : "white"
       }, {
-        "text" : "The drone's betaflight expo value.\n",
+        "text" : "Valeurs expo betaflight du drone.\n",
         "bold" : false,
         "italic" : false,
         "color" : "gray"
       },
 
       {
-        "text" : "\nInvert Controls: \n",
+        "text" : "\nContrôles invers\u00e9s: \n",
         "bold" : true,
         "italic" : false,
         "color" : "white"
@@ -155,7 +155,7 @@
         "italic" : true,
         "color" : "white"
       }, {
-        "text" : "Inverts the controller's pitch input.\n",
+        "text" : "Invertion de commande du tangage.\n",
         "bold" : false,
         "italic" : false,
         "color" : "gray"
@@ -167,7 +167,7 @@
         "italic" : true,
         "color" : "white"
       }, {
-        "text" : "Inverts the controller's roll input.\n",
+        "text" : "Invertion de commande du roulis.\n",
         "bold" : false,
         "italic" : false,
         "color" : "gray"
@@ -179,7 +179,7 @@
         "italic" : true,
         "color" : "white"
       }, {
-        "text" : "Inverts the controller's throttle input.\n",
+        "text" : "Invertion de commande des gaz.\n",
         "bold" : false,
         "italic" : false,
         "color" : "gray"
@@ -191,14 +191,14 @@
         "italic" : true,
         "color" : "white"
       }, {
-        "text" : "Inverts the controller's yaw input.\n",
+        "text" : "Invertion de commande du lacet.\n",
         "bold" : false,
         "italic" : false,
         "color" : "gray"
       },
 
       {
-        "text" : "\nCamera Settings: \n",
+        "text" : "\nParam\u00e8tres de la cam\u00e9ra: \n",
         "bold" : true,
         "italic" : false,
         "color" : "white"
@@ -210,7 +210,7 @@
         "italic" : true,
         "color" : "white"
       }, {
-        "text" : "The drone's camera angle. Measured in degrees.\n",
+        "text" : "Angle de cam\u00e9ra du drone. Mesur\u00e9 en degr\u00e9s.\n",
         "bold" : false,
         "italic" : false,
         "color" : "gray"
@@ -222,14 +222,14 @@
         "italic" : true,
         "color" : "white"
       }, {
-        "text" : "The drone's field of view. Measured in degrees.\n",
+        "text" : "Champ de vision du drone. Mesur\u00e9 en degr\u00e9s.\n",
         "bold" : false,
         "italic" : false,
         "color" : "gray"
       },
 
       {
-        "text" : "\nVideo Settings: \n",
+        "text" : "\nParam\u00e8tres vid\u00e9o: \n",
         "bold" : true,
         "italic" : false,
         "color" : "white"
@@ -241,7 +241,7 @@
         "italic" : true,
         "color" : "white"
       }, {
-        "text" : "The drone's video frequency band.\n",
+        "text" : "Bande de fr\u00e9quence vid\u00e9o du drone.\n",
         "bold" : false,
         "italic" : false,
         "color" : "gray"
@@ -253,14 +253,14 @@
         "italic" : true,
         "color" : "white"
       }, {
-        "text" : "The drone's video frequency channel.\n",
+        "text" : "Canal de fr\u00e9quence vid\u00e9o du drone.\n",
         "bold" : false,
         "italic" : false,
         "color" : "gray"
       },
 
       {
-        "text" : "\nPhysics Settings: \n",
+        "text" : "\nParam\u00e8tres de la physique: \n",
         "bold" : true,
         "italic" : false,
         "color" : "white"
@@ -272,7 +272,7 @@
         "italic" : true,
         "color" : "white"
       }, {
-        "text" : "Determines drone's damage to entities.\n",
+        "text" : "D\u00e9gats caus\u00e9s par le drone aux entit\u00e9s.\n",
         "bold" : false,
         "italic" : false,
         "color" : "gray"
@@ -284,7 +284,7 @@
         "italic" : true,
         "color" : "white"
       }, {
-        "text" : "The drone's drag coefficient.\n",
+        "text" : "Coefficient de traîn\u00e9e du drone.\n",
         "bold" : false,
         "italic" : false,
         "color" : "gray"
@@ -296,7 +296,7 @@
         "italic" : true,
         "color" : "white"
       }, {
-        "text" : "The drone's mass. Measured in kg.\n",
+        "text" : "Masse du drone. Mesur\u00e9 en kg.\n",
         "bold" : false,
         "italic" : false,
         "color" : "gray"
@@ -308,7 +308,7 @@
         "italic" : true,
         "color" : "white"
       }, {
-        "text" : "The drone's size. Measured in pixels.\n",
+        "text" : "Taille du drone. Mesur\u00e9 en pixels.\n",
         "bold" : false,
         "italic" : false,
         "color" : "gray"
@@ -320,7 +320,7 @@
         "italic" : true,
         "color" : "white"
       }, {
-        "text" : "The drone's thrust. Measured in Newtons.\n",
+        "text" : "La pouss\u00e9e du drone. Mesur\u00e9 en newtons.\n",
         "bold" : false,
         "italic" : false,
         "color" : "gray"
@@ -332,14 +332,14 @@
         "italic" : true,
         "color" : "white"
       }, {
-        "text" : "Curves the drone's thrust. Value range: 0-1.\n",
+        "text" : "Courbe la pouss\u00e9e du drone. Plage de valeurs: 0-1.\n",
         "bold" : false,
         "italic" : false,
         "color" : "gray"
       },
 
       {
-        "text" : "\nGlobal Physics Settings: \n",
+        "text" : "\nParam\u00e8tres de physique globaux: \n",
         "bold" : true,
         "italic" : false,
         "color" : "white"
@@ -351,7 +351,7 @@
         "italic" : true,
         "color" : "white"
       }, {
-        "text" : "The drone's air density. Measured in kg/m^3.\n",
+        "text" : "Densit\u00e9 de l'air du drone. Mesur\u00e9 en kg/m^3.\n",
         "bold" : false,
         "italic" : false,
         "color" : "gray"
@@ -363,7 +363,7 @@
         "italic" : true,
         "color" : "white"
       }, {
-        "text" : "The drone's block radius for collisions.\n",
+        "text" : "Rayon de collision du drone.\n",
         "bold" : false,
         "italic" : false,
         "color" : "gray"
@@ -375,14 +375,14 @@
         "italic" : true,
         "color" : "white"
       }, {
-        "text" : "The drone's gravity. Measured in m/s^2.\n",
+        "text" : "Gravit\u00e9 du drone. Mesur\u00e9 en m/s^2.\n",
         "bold" : false,
         "italic" : false,
         "color" : "gray"
       },
 
       {
-        "text" : "\nMiscellaneous Settings: \n",
+        "text" : "\nParam\u00e8tres divers: \n",
         "bold" : true,
         "italic" : false,
         "color" : "white"
@@ -394,7 +394,7 @@
         "italic" : true,
         "color" : "white"
       }, {
-        "text" : "Reverts the loaded config with the config file's values.\n",
+        "text" : "R\u00e9tablit la configuration charg\u00e9e avec les valeurs du fichier de configuration.\n",
         "bold" : false,
         "italic" : false,
         "color" : "gray"
@@ -406,7 +406,7 @@
         "italic" : true,
         "color" : "white"
       }, {
-        "text" : "Writes the loaded config to the config file.\n",
+        "text" : "\u00c9crit la configuration charg\u00e9e dans le fichier de configuration.\n",
         "bold" : false,
         "italic" : false,
         "color" : "gray"
@@ -415,14 +415,14 @@
 
     "drone" : [
       {
-        "text" : "FPV Racing Drone Commands: \n",
+        "text" : "Commandes du drone FPV: \n",
         "bold" : true,
         "italic" : false,
         "color" : "white"
       },
 
       {
-        "text" : "\nRate Setup: \n",
+        "text" : "\nConfiguration des rates: \n",
         "bold" : true,
         "italic" : false,
         "color" : "white"
@@ -434,7 +434,7 @@
         "italic" : true,
         "color" : "white"
       }, {
-        "text" : "The drone's betaflight rate value.\n",
+        "text" : "Valeur des rates betaflight du drone.\n",
         "bold" : false,
         "italic" : false,
         "color" : "gray"
@@ -446,7 +446,7 @@
         "italic" : true,
         "color" : "white"
       }, {
-        "text" : "The drone's betaflight superRate value.\n",
+        "text" : "Valeurs des superRate betaflight du drone.\n",
         "bold" : false,
         "italic" : false,
         "color" : "gray"
@@ -458,14 +458,14 @@
         "italic" : true,
         "color" : "white"
       }, {
-        "text" : "The drone's betaflight expo value.\n",
+        "text" : "Valeur expo betaflight du drone.\n",
         "bold" : false,
         "italic" : false,
         "color" : "gray"
       },
 
       {
-        "text" : "\nCamera Settings: \n",
+        "text" : "\nParam\u00e8tres de la cam\u00e9ra: \n",
         "bold" : true,
         "italic" : false,
         "color" : "white"
@@ -477,7 +477,7 @@
         "italic" : true,
         "color" : "white"
       }, {
-        "text" : "The drone's camera angle. Measured in degrees.\n",
+        "text" : "Angle de cam\u00e9ra du drone. Mesur\u00e9 en degr\u00e9s.\n",
         "bold" : false,
         "italic" : false,
         "color" : "gray"
@@ -489,14 +489,14 @@
         "italic" : true,
         "color" : "white"
       }, {
-        "text" : "The drone's field of view. Measured in degrees.\n",
+        "text" : "Champ de vision du drone. Mesur\u00e9 en degr\u00e9s.\n",
         "bold" : false,
         "italic" : false,
         "color" : "gray"
       },
 
       {
-        "text" : "\nVideo Settings: \n",
+        "text" : "\nParam\u00e8tres vid\u00e9o: \n",
         "bold" : true,
         "italic" : false,
         "color" : "white"
@@ -508,7 +508,7 @@
         "italic" : true,
         "color" : "white"
       }, {
-        "text" : "The drone's video frequency band.\n",
+        "text" : "Bande de fr\u00e9quence vid\u00e9o du drone.\n",
         "bold" : false,
         "italic" : false,
         "color" : "gray"
@@ -520,14 +520,14 @@
         "italic" : true,
         "color" : "white"
       }, {
-        "text" : "The drone's video frequency channel.\n",
+        "text" : "Canal de fr\u00e9quence vid\u00e9o du drone.\n",
         "bold" : false,
         "italic" : false,
         "color" : "gray"
       },
 
       {
-        "text" : "\nPhysics Settings: \n",
+        "text" : "\nParam\u00e8tres de la physique: \n",
         "bold" : true,
         "italic" : false,
         "color" : "white"
@@ -539,7 +539,7 @@
         "italic" : true,
         "color" : "white"
       }, {
-        "text" : "Determines drone's damage to entities.\n",
+        "text" : "D\u00e9gats caus\u00e9s par le drone aux entit\u00e9s.\n",
         "bold" : false,
         "italic" : false,
         "color" : "gray"
@@ -551,7 +551,7 @@
         "italic" : true,
         "color" : "white"
       }, {
-        "text" : "The drone's drag coefficient.\n",
+        "text" : "Coefficient de traîn\u00e9e du drone.\n",
         "bold" : false,
         "italic" : false,
         "color" : "gray"
@@ -563,7 +563,7 @@
         "italic" : true,
         "color" : "white"
       }, {
-        "text" : "The drone's mass. Measured in kg.\n",
+        "text" : "Masse du drone. Mesur\u00e9 en kg.\n",
         "bold" : false,
         "italic" : false,
         "color" : "gray"
@@ -575,7 +575,7 @@
         "italic" : true,
         "color" : "white"
       }, {
-        "text" : "The drone's size. Measured in pixels.\n",
+        "text" : "Taille du drone. Mesur\u00e9 en pixels.\n",
         "bold" : false,
         "italic" : false,
         "color" : "gray"
@@ -587,7 +587,7 @@
         "italic" : true,
         "color" : "white"
       }, {
-        "text" : "The drone's thrust. Measured in Newtons.\n",
+        "text" : "Pouss\u00e9e du drone. Mesur\u00e9 en newtons.\n",
         "bold" : false,
         "italic" : false,
         "color" : "gray"
@@ -599,14 +599,14 @@
         "italic" : true,
         "color" : "white"
       }, {
-        "text" : "Curves the drone's thrust. Value range: 0-1.\n",
+        "text" : "Courbe la pouss\u00e9e du drone. Plage de valeurs: 0-1.\n",
         "bold" : false,
         "italic" : false,
         "color" : "gray"
       },
 
       {
-        "text" : "\nMiscellaneous Settings: \n",
+        "text" : "\nParam\u00e8tres divers: \n",
         "bold" : true,
         "italic" : false,
         "color" : "white"
@@ -618,7 +618,7 @@
         "italic" : true,
         "color" : "white"
       }, {
-        "text" : "Disables drone dying to certain damage sources.\n",
+        "text" : "D\u00e9sactive les d\u00e9gats du drone. Il est invincible !\n",
         "bold" : false,
         "italic" : false,
         "color" : "gray"
@@ -630,7 +630,7 @@
         "italic" : true,
         "color" : "white"
       }, {
-        "text" : "Disables drone collisions.\n",
+        "text" : "D\u00e9sactive les collisions du drone.\n",
         "bold" : false,
         "italic" : false,
         "color" : "gray"
@@ -639,7 +639,7 @@
 
     "fpvracing" : [
       {
-        "text" : "FPV Racing Commands: \n\n",
+        "text" : "Commandes FPV Racing: \n\n",
         "bold" : true,
         "italic" : false,
         "color" : "white"
@@ -651,7 +651,7 @@
         "italic" : true,
         "color" : "white"
       }, {
-        "text" : "Config settings.\n",
+        "text" : "Param\u00e8tres de configuration.\n",
         "bold" : false,
         "italic" : false,
         "color" : "gray"
@@ -663,7 +663,7 @@
         "italic" : true,
         "color" : "white"
       }, {
-        "text" : "Drone settings.\n",
+        "text" : "Param\u00e8tres du drone.\n",
         "bold" : false,
         "italic" : false,
         "color" : "gray"
@@ -675,7 +675,7 @@
         "italic" : true,
         "color" : "white"
       }, {
-        "text" : "Goggle settings.\n",
+        "text" : "Param\u00e8tres des lunettes FPV.\n",
         "bold" : false,
         "italic" : false,
         "color" : "gray"
@@ -684,7 +684,7 @@
 
     "goggles" : [
       {
-        "text" : "FPV Racing Goggles Commands: \n\n",
+        "text" : "Commandes des lunettes FPV: \n\n",
         "bold" : true,
         "italic" : false,
         "color" : "white"
@@ -696,7 +696,7 @@
         "italic" : true,
         "color" : "white"
       }, {
-        "text" : "The goggle's video frequency band.\n",
+        "text" : "Bande de fr\u00e9quence vid\u00e9o des lunettes FPV.\n",
         "bold" : false,
         "italic" : false,
         "color" : "gray"
@@ -708,7 +708,7 @@
         "italic" : true,
         "color" : "white"
       }, {
-        "text" : "The goggle's video frequency channel.\n",
+        "text" : "Canal de fr\u00e9quence vid\u00e9o des lunettes FPV.\n",
         "bold" : false,
         "italic" : false,
         "color" : "gray"
@@ -718,21 +718,21 @@
 
   "error" : {
     "drone" : {
-      "text" : "Must be holding a Drone Spawner or a bound Transmitter."
+      "text" : "Vous devez avoir en main un Spawner \u00e0 Drone ou une t\u00e9l\u00e9commande li\u00e9."
     },
 
     "goggles" : {
-      "text" : "Must be holding or wearing Goggles."
+      "text" : "Vous devez tenir en main ou porter des lunettes FPV."
     }
   },
 
   "success" : {
     "revert" : {
-      "text" : "Successfully reverted config."
+      "text" : "Configuration r\u00e9tablie avec succ\u00e8s."
     },
 
     "write" : {
-      "text" : "successfully wrote config."
+      "text" : "\u00c9criture de la configuration effectu\u00e9e avec succ\u00e8ss."
     }
   }
 }
