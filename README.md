@@ -1,6 +1,7 @@
-# Fpvmod
-French language translation for FPV Racing minecraft mod
-Traduction française pour le mod FPV Racing de Minecraft
+# Fpvmod-Fr
+French language translation for [FPV Racing minecraft mod](https://github.com/ethanejohnsons/FPV-Racing-Mod-Fabric)
+
+Traduction française pour le mod [FPV Racing de Minecraft](https://github.com/ethanejohnsons/FPV-Racing-Mod-Fabric)
 
 Replace `fpvracing.messages.json` file into the .jar with the one given here.
 Rempalcer le fichier `fpvracing.messages.json` du .jar du mod avec celui donné ici.
