@@ -1,14 +1,16 @@
 # Fpvmod-Fr
-FR: French language translation for [FPV Racing minecraft mod](https://github.com/ethanejohnsons/FPV-Racing-Mod-Fabric)
 
-FR: Rempalcer le fichier `fpvracing.messages.json` du .jar du mod avec celui donné ici.
+FR:
+> Traduction française pour le mod [FPV Racing de Minecraft](https://github.com/ethanejohnsons/FPV-Racing-Mod-Fabric)<br/>
+> Rempalcer le fichier `fpvracing.messages.json` du .jar du mod avec celui donné ici.<br/>
+> Remplacer le fichier `en_us.json` dans le fichier .jar\assets\fpvracing\lang\ du mod avec celui donné ici.<br/>
 
-FR: Remplacer le fichier `en_us.json` dans le fichier .jar\assets\fpvracing\lang\ du mod avec celui donné ici.
+
+EN:
+> French language translation for [FPV Racing minecraft mod](https://github.com/ethanejohnsons/FPV-Racing-Mod-Fabric)<br/>
+> Replace `fpvracing.messages.json` file into the .jar with the one given here.<br/>
+> Replace `en_us.json` into the .jar\assets\fpvracing\lang\ with the one given here.<br/>
 
 
-
-EN: Traduction française pour le mod [FPV Racing de Minecraft](https://github.com/ethanejohnsons/FPV-Racing-Mod-Fabric)
-
-EN: Replace `fpvracing.messages.json` file into the .jar with the one given here.
-
-EN: Replace `en_us.json` into the .jar\assets\fpvracing\lang\ with the one given here.
+Notes:
+> Added forbiden characters for `.json` files, accent does not work unless it's in UNICODE
